@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(255, 200, 98);
+}
+
+p {
+  font-size: x-large;
+}
+
+hr {
+  width: 50%;
+}
+
+.btn {
+  opacity: 90%;
+}
+
+#burger-image {
+  width: 30%;
+  height: auto;
+}
